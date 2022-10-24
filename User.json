@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "6353d6d2a252164aa73188a6"
+  },
+  "Name": "A",
+  "Weight": 52,
+  "Old": 18,
+  "Gender": "M",
+  "Height ": 173
+},{
+  "_id": {
+    "$oid": "6353d6dba252164aa73188a7"
+  },
+  "Name": "B",
+  "Weight": 59,
+  "Old": 20,
+  "Gender": "F",
+  "Height ": 130
+},{
+  "_id": {
+    "$oid": "6353d6e6a252164aa73188a8"
+  },
+  "Name": "C",
+  "Weight": 66,
+  "Old": 20,
+  "Gender": "M",
+  "Height ": 182
+},{
+  "_id": {
+    "$oid": "6353d6eca252164aa73188a9"
+  },
+  "Name": "D",
+  "Weight": 40,
+  "Old": 20,
+  "Gender": "F",
+  "Height ": 184
+},{
+  "_id": {
+    "$oid": "6353d6f5a252164aa73188aa"
+  },
+  "Name": "E",
+  "Weight": 53,
+  "Old": 18,
+  "Gender": "F",
+  "Height ": 182
+},{
+  "_id": {
+    "$oid": "6353d6fda252164aa73188ab"
+  },
+  "Name": "F",
+  "Weight": 60,
+  "Heght ": 147,
+  "Old": 19,
+  "Gender": "F"
+},{
+  "_id": {
+    "$oid": "6353d705a252164aa73188ac"
+  },
+  "Name": "Ingkayuth",
+  "Weight": 55,
+  "Old": 20,
+  "Gender": "M",
+  "Height ": 55
+},{
+  "_id": {
+    "$oid": "6353d70ea252164aa73188ad"
+  },
+  "Name": "Titisak",
+  "Weight": 45,
+  "Old": 25,
+  "Gender": "M",
+  "Height ": 164
+},{
+  "_id": {
+    "$oid": "6353d717a252164aa73188ae"
+  },
+  "Name": "Non",
+  "Weight": 63,
+  "Old": 20,
+  "Gender": "M",
+  "Height ": 167
+},{
+  "_id": {
+    "$oid": "6353d721a252164aa73188af"
+  },
+  "Name": "Newyear",
+  "Weight": 42,
+  "Old": 25,
+  "Gender": "F",
+  "Height ": 165
+},{
+  "_id": {
+    "$oid": "6353d72aa252164aa73188b0"
+  },
+  "Name": "Natdanai",
+  "Weight": 71,
+  "Old": 21,
+  "Gender": "M",
+  "Height ": 174
+},{
+  "_id": {
+    "$oid": "6353d732a252164aa73188b1"
+  },
+  "Name": "Watit",
+  "Weight": 54,
+  "Old": 20,
+  "Gender": "M",
+  "Height ": 160
+},{
+  "_id": {
+    "$oid": "6353d73ba252164aa73188b2"
+  },
+  "Name": "New",
+  "Weight": 52,
+  "Old": 26,
+  "Gender": "F",
+  "Height ": 165
+},{
+  "_id": {
+    "$oid": "6353d744a252164aa73188b3"
+  },
+  "Name": "Book",
+  "Weight": 61,
+  "Old": 19,
+  "Gender": "M",
+  "Height ": 160
+},{
+  "_id": {
+    "$oid": "6353d74fa252164aa73188b4"
+  },
+  "Name": "Cartoon",
+  "Weight": 60,
+  "Old": 24,
+  "Gender": "F",
+  "Height ": 172
+},{
+  "_id": {
+    "$oid": "6353d75da252164aa73188b5"
+  },
+  "Name": "Duangkamon",
+  "Weight": 45,
+  "Old": 27,
+  "Gender": "F",
+  "Height ": 164
+},{
+  "_id": {
+    "$oid": "6353d76ca252164aa73188b6"
+  },
+  "Name": "Nuttapong",
+  "Weight": 67,
+  "Old": 22,
+  "Gender": "F",
+  "Height ": 163
+},{
+  "_id": {
+    "$oid": "6353d771a252164aa73188b7"
+  },
+  "Name": "year",
+  "Weight": 65,
+  "Old": 18,
+  "Gender": "M",
+  "Height ": 152
+},{
+  "_id": {
+    "$oid": "6353d77ba252164aa73188b8"
+  },
+  "Name": "Charkit",
+  "Weight": 72,
+  "Old": 22,
+  "Gender": "M",
+  "Height ": 185
+},{
+  "_id": {
+    "$oid": "6353d786a252164aa73188b9"
+  },
+  "Name": "Thanakorn",
+  "Weight": 66,
+  "Old": 23,
+  "Gender": "M",
+  "Height ": 164
+}]
